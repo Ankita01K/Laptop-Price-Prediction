@@ -46,7 +46,7 @@ To deploy this project run
 
 Clone the repository:
 ```bash
-  [git clone https://github.com/Ankita01K/CodeTech-IT-Solutions.git](https://github.com/Ankita01K/Laptop-Price-Prediction.git)
+   https://github.com/Ankita01K/Laptop-Price-Prediction.git
 ```
 
 Install the required dependencies
