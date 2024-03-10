@@ -31,13 +31,13 @@ The main objective of this project is to develop a predictive model that can acc
 
 ## **Deployment:**
 
-T**he machine learning model was deployed using Streamlit, allowing users to input laptop specifications and receive price predictions in real-time. The application is hosted on Render for easy accessibility.**
-
-<html>
+**The machine learning model was deployed using Streamlit, allowing users to input laptop specifications and receive price predictions in real-time. The application is hosted on Render for easy accessibility.You can access from this**<html>
 <p>
-<a href="https://laptop-price-prediction-qzdf.onrender.com/"> You can access Here </a>
+<a href="https://laptop-price-prediction-qzdf.onrender.com/"> Link </a>
 </p>
 </html>
+
+
 
 
 
