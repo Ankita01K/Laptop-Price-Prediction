@@ -31,7 +31,8 @@ The main objective of this project is to develop a predictive model that can acc
 
 ## **Deployment:**
 
-**The machine learning model was deployed using Streamlit, allowing users to input laptop specifications and receive price predictions in real-time. The application is hosted on Render for easy accessibility.You can access from this**<html>
+**The machine learning model was deployed using Streamlit, allowing users to input laptop specifications and receive price predictions in real-time. The application is hosted on Render for easy accessibility.
+You can access from below **<html>
 <p>
 <a href="https://laptop-price-prediction-qzdf.onrender.com/"> Link </a>
 </p>
@@ -45,7 +46,7 @@ To deploy this project run
 
 Clone the repository:
 ```bash
-  git clone https://github.com/Ankita01K/CodeTech-IT-Solutions.git
+  [git clone https://github.com/Ankita01K/CodeTech-IT-Solutions.git](https://github.com/Ankita01K/Laptop-Price-Prediction.git)
 ```
 
 Install the required dependencies
