@@ -21,37 +21,46 @@ M**achine Learning Pipeline: Train and evaluate various machine learning models 
 
 **Model Evaluation: Model performance was evaluated using metrics such as R2 score and Mean Absolute Error (MAE) to assess predictive accuracy**
 
-# **Deployment:**
+# Deployment:
 
-**The machine learning model was deployed using Streamlit, allowing users to input laptop specifications and receive price predictions in real-time. The application is hosted on Render for easy accessibility.**
+The machine learning model was deployed using Streamlit, allowing users to input laptop specifications and receive price predictions in real-time. The application is hosted on Render for easy accessibility.
 
-**You can access it here** : https://sms-spam-classification-kj65.onrender.com/
+You can access it here :
 
-**To deploy this project run**
+https://sms-spam-classification-kj65.onrender.com/
 
-**Clone the repository:**
 
+To deploy this project run
+
+Clone the repository:
+```bash
   git clone https://github.com/Ankita01K/CodeTech-IT-Solutions.git
-  
-**Install the required dependencies**
+```
 
+Install the required dependencies
+
+```bash
   pip install -r requirements.txt
-  
-**Run the Streamlit App**
+```
 
+
+Run the Streamlit App
+```bash
   streamlit run app.py
-  
-**Demo**
+```
+
+
+
+## Demo
 
 Insert gif or link to demo
 
-Screenshot 2024-03-10 111034
 
-Prediction almost correct
 
-Screenshot 2024-03-10 111109
-Screenshot 2024-03-10 111034
 
-Prediction almost correct
 
-Screenshot 2024-03-10 111109
+![Screenshot 2024-03-10 111034](https://github.com/Ankita01K/Laptop-Price-Prediction/assets/123232024/f65e7957-a694-448c-9179-1f24aa58dfeb)
+
+Prediction almost correct 
+
+![Screenshot 2024-03-10 111109](https://github.com/Ankita01K/Laptop-Price-Prediction/assets/123232024/297265b4-e3b0-41a9-91be-d31ccc802d1f)
