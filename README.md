@@ -7,8 +7,6 @@ This project focuses on predicting laptop prices using machine learning techniqu
 The main objective of this project is to develop a predictive model that can accurately estimate the price of laptops based on various features such as Company	TypeName,Ram,Weight,Touchscreen	Ips,ppi,Cpu brand,HDD,SSD,Gpu brand	,os.
 
 
-
-
 ## **Methodology**
 
 **Data Preprocessing: Handle missing values and encode categorical variables using column transformation techniques.**
@@ -28,11 +26,10 @@ The main objective of this project is to develop a predictive model that can acc
 **The Random Forest model, tuned using Random Search CV, achieved the highest R2 score (0.8957) and lowest MAE (0.1511).**
 
 
-
 ## **Deployment:**
 
 **The machine learning model was deployed using Streamlit, allowing users to input laptop specifications and receive price predictions in real-time. The application is hosted on Render for easy accessibility.
-You can access from below **<html>
+You can access from below**<html>
 <p>
 <a href="https://laptop-price-prediction-qzdf.onrender.com/"> Link </a>
 </p>
