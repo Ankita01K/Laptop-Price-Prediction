@@ -1,10 +1,11 @@
 
 # Laptop Price Prediction Using Machine Learning Pipeline
-This project focuses on predicting laptop prices using machine learning techniques. The dataset used for this project was obtained from Kaggle.
+
+**This project focuses on predicting laptop prices using machine learning techniques. The dataset used for this project was obtained from Kaggle.**
 
 ## **Objective**
 
-The main objective of this project is to develop a predictive model that can accurately estimate the price of laptops based on various features such as Company	TypeName,Ram,Weight,Touchscreen	Ips,ppi,Cpu brand,HDD,SSD,Gpu brand	,os.
+**The main objective of this project is to develop a predictive model that can accurately estimate the price of laptops based on various features such as Company	TypeName,Ram,Weight,Touchscreen	Ips,ppi,Cpu brand,HDD,SSD,Gpu brand	,os.**
 
 
 ## **Methodology**
